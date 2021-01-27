@@ -19,116 +19,116 @@
       <output id="OutputClause_0vdltyr" label="developer" name="Developer" typeRef="string" />
       <output id="OutputClause_16m831c" label="user" name="Standard User" typeRef="string" />
       <output id="OutputClause_06hgt34" label="guest" name="Guest" typeRef="string" />
-      <rule id="DecisionRule_356262">
-        <inputEntry id="UnaryTests_151526">
+      <rule id="DecisionRule_357650">
+        <inputEntry id="UnaryTests_063556">
           <text>"home"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_844250">
+        <inputEntry id="UnaryTests_150600">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_009696">
+        <outputEntry id="LiteralExpression_246761">
           <text>
             {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_181419">
+        <outputEntry id="LiteralExpression_671238">
           <text>
              {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_722744">
+        <outputEntry id="LiteralExpression_215496">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_595741">
+        <outputEntry id="LiteralExpression_916772">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
       </rule>
        
-<rule id="DecisionRule_777968">
-        <inputEntry id="UnaryTests_566436">
+<rule id="DecisionRule_057325">
+        <inputEntry id="UnaryTests_290367">
           <text>"admin"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_361339">
+        <inputEntry id="UnaryTests_634093">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_343740">
+        <outputEntry id="LiteralExpression_151012">
           <text>
             {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_491161">
+        <outputEntry id="LiteralExpression_220261">
           <text>
              {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_592810">
+        <outputEntry id="LiteralExpression_985374">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_301409">
+        <outputEntry id="LiteralExpression_039549">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
       </rule>
        
-<rule id="DecisionRule_735830">
-        <inputEntry id="UnaryTests_407781">
+<rule id="DecisionRule_177889">
+        <inputEntry id="UnaryTests_579752">
           <text>"logout"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_543034">
+        <inputEntry id="UnaryTests_560795">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_672854">
+        <outputEntry id="LiteralExpression_645820">
           <text>
             {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_955692">
+        <outputEntry id="LiteralExpression_088158">
           <text>
              {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_181358">
+        <outputEntry id="LiteralExpression_742684">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_491648">
+        <outputEntry id="LiteralExpression_383519">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
       </rule>
        
-<rule id="DecisionRule_655975">
-        <inputEntry id="UnaryTests_988742">
+<rule id="DecisionRule_843197">
+        <inputEntry id="UnaryTests_131645">
           <text>"login"</text>
         </inputEntry>
-        <inputEntry id="UnaryTests_195075">
+        <inputEntry id="UnaryTests_197335">
           <text>"Screen"</text>
         </inputEntry>
-        <outputEntry id="LiteralExpression_578272">
+        <outputEntry id="LiteralExpression_407995">
           <text>
             {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_376492">
+        <outputEntry id="LiteralExpression_766947">
           <text>
              {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_952755">
+        <outputEntry id="LiteralExpression_246844">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
         </outputEntry>
-        <outputEntry id="LiteralExpression_830288">
+        <outputEntry id="LiteralExpression_416496">
           <text>
               {"home":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"admin":[{"Admin":{"value":true},"Developer":{"value":false},"User":{"value":false},"Guest":{"value":false}}],"logout":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}],"login":[{"Admin":{"value":false},"Developer":{"value":false},"User":{"value":true},"Guest":{"value":false}}]}
           </text>
